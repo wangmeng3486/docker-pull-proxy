@@ -1,5 +1,5 @@
 pgvector/pgvector:pg16  crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/pgvector:pg16
 ubuntu/squid:latest crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/squid:latest
 frooodle/s-pdf:latest crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/s-pdf:latest 
-ghcr.io/labring/fastgpt:v4.8.15-fix-team-permission crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/fastgpt:v4.8.15-fix-team-permission
-ghcr.io/labring/fastgpt-sandbox:v4.8.15-fix-team-permission crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/fastgpt-sandbox:v4.8.15-fix-team-permission
+ghcr.io/labring/fastgpt:v4.8.15-fix-3 crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/fastgpt:v4.8.15-fix-3
+ghcr.io/labring/fastgpt-sandbox:v4.8.15-fix-3 crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/fastgpt-sandbox:v4.8.15-fix-3
