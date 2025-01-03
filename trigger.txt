@@ -3,3 +3,4 @@ ubuntu/squid:latest crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wm
 frooodle/s-pdf:latest crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/s-pdf:latest 
 ghcr.io/labring/fastgpt:v4.8.15-fix3 crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/fastgpt:v4.8.15-fix3
 ghcr.io/labring/fastgpt-sandbox:v4.8.15-fix3 crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/fastgpt-sandbox:v4.8.15-fix3
+consul:latest crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/consul:latest
