@@ -4,3 +4,7 @@ frooodle/s-pdf:latest crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/
 searxng/searxng:latest  crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/searxng:latest
 ghcr.io/labring/fastgpt:v4.8.23-fix2 crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/fastgpt:v4.8.23-fix2
 ghcr.io/labring/fastgpt-sandbox:v4.8.23-fix2 crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/fastgpt-sandbox:v4.8.23-fix2
+valkey/valkey:8 crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/valkey:8
+mysql:8.0.39 crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/mysql:8.0.39
+infiniflow/infinity:v0.6.0-dev3 crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/infinity:v0.6.0-dev3
+elasticsearch:8.11.3 crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/elasticsearch:8.11.3
