@@ -1,2 +1,2 @@
-vllm/vllm-openai:v0.7.1 crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/vllm-openai:v0.7.1
+homeassistant/home-assistant:latest crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/home-assistant:latest
 frooodle/s-pdf:latest crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/s-pdf:latest 
