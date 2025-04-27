@@ -1,2 +1,2 @@
-redis:7.2-alpine crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/redis:7.2-alpine
 frooodle/s-pdf:latest crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/s-pdf:latest 
+gpustack/gpustack:latest:crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/gpustack:latest
