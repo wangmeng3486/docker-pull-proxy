@@ -1,2 +1,3 @@
 frooodle/s-pdf:latest crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/s-pdf:latest 
-gpustack/gpustack:latest crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/gpustack:latest
+langgenius/dify-sandbox:0.2.12 crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.1.2-local crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/dify-plugin-daemon:0.1.2-local
