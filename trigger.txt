@@ -1,4 +1,4 @@
-gpustack/gpustack:v0.7.1  crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/s-pdf:latest 
+gpustack/gpustack:v0.7.1  crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/gpustack:v0.7.1 
 frooodle/s-pdf:latest crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/s-pdf:latest 
 langgenius/dify-sandbox:0.2.12 crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/dify-sandbox:0.2.12
 langgenius/dify-plugin-daemon:0.2.0-local crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/dify-plugin-daemon:0.2.0-local
