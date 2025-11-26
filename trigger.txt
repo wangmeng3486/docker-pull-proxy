@@ -1,3 +1,4 @@
- docker.io/searxng/searxng:latest  crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/searxng:latest
+docker.io/searxng/searxng:latest  crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/searxng:latest
 gpustack/gpustack:v2.0.0  crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/gpustack:v2.0.0
-
+prom/prometheus crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/prometheus
+grafana/grafana crpi-1uw85ba5ae66k1xp.cn-beijing.personal.cr.aliyuncs.com/wmgit/grafana
